@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Rails, JS**
 
-- 📫 How to reach me **pe.daigre@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/pedaigre/](https://www.linkedin.com/in/pedaigre/)
 
 
